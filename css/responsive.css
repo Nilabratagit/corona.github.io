@@ -1,0 +1,209 @@
+
+
+@media(min-width:992px) and (max-width:1199px){
+.banner-section{
+	padding-top: 50px;
+}
+.banner-text-section{
+	width: 94%;
+	padding-bottom: 50px; 
+}
+.banner-text-section a:hover{
+	background-color: #000;
+	color: #fff;
+}
+.banner-content > h1 > span{
+	display: inline;
+}
+}
+@media(min-width:768px) and (max-width:991px){
+.banner-section{
+	padding-top: 70px;
+}
+.banner-text-section{
+	width: 94%;
+	padding-bottom: 50px; 
+}
+.banner-text-section h1{
+	font-size: 40px;
+	line-height: 50px
+}
+.banner-text-section p{
+	line-height: 28px;
+	font-size: 16px
+}
+.banner-text-section a:hover{
+	background-color: #000;
+	color: #fff;
+}
+.services-detallis h3 > a span{
+	display: inline-block;
+}
+.services-detallis h3 > a{
+   font-size: 25px;
+}
+.right-noumber-section li {
+	display: block;
+	text-align: right;
+}
+.tex-mute{
+	margin: 5px 0;
+}
+.regester-section{
+	margin: 33px 15px;
+}
+.py-foter-menu{
+    padding: 10px 0;
+}
+.about-sec-1{
+	margin-top: 70px
+}
+.wrok-experince-dtalis{
+   margin-bottom:  40px
+}
+.right-spacing{
+	padding-top: 40px; 
+	padding-left: 15px;
+}
+.banner-content > h1 > span{
+	display: inline;
+}
+}
+
+@media(max-width:767px){
+
+.navbar-default .navbar-brand{
+	padding: 0 10px;
+}
+.navbar-default .navbar-toggle{
+ background-color: #f34235;
+ padding: 9px 7.5px;
+ border: 2px solid #f34235
+}
+.navbar-default .navbar-toggle:hover{
+ background-color: #f34235
+}
+.navbar-default .navbar-toggle:focus{
+ background-color: #f34235;
+ border: 2px solid #b5901f
+}
+.navbar-default .navbar-toggle .icon-bar{
+	background-color: #ffffff;
+	width: 18.5px;
+	height: 3.1px
+}
+.navbar-toggle .icon-bar + .icon-bar{
+	margin-top: 3px
+}
+.navbar-default .navbar-collapse{
+  border: none
+}
+.navbar-default .navbar-nav > li > a{
+ margin: 9px 7px;
+ padding: 2px 1px;
+ display: inline-block
+}
+.navbar-right{
+	padding: 20px 0 
+}
+.navbar-nav{
+	text-align: center
+}
+.light-swith-section{
+	right: 70px
+}
+.banner-section{
+	padding-top: 50px;
+}
+.banner-text-section{
+	width: 100%;
+	padding-bottom: 50px; 
+
+}
+.banner-text-section h1{
+	font-size: 39px;
+	line-height: 48px
+}
+.banner-text-section p{
+	line-height: 28px;
+	font-size: 15px
+}
+.banner-text-section a:hover{
+	background-color: #000;
+	color: #fff;
+}
+.title-world-coplement span{
+	display: inline;
+}
+.title-world-coplement{
+	font-size: 35px;
+}
+.from-section{
+    width: 100%;
+    margin: 50px auto;
+}
+.exprince-box-title span{
+	display: inline-block;
+}
+.services-detallis h3 > a span{
+	display: inline-block;
+}
+.right-noumber-section{
+	float: left;
+	width: 100%;
+	padding: 35px 15px;
+}
+.right-noumber-section li {
+	display: block;
+	text-align: left;
+}
+.tex-mute{
+	margin: 5px 0;
+}
+.right-noumber-section ul{
+	padding-left: 0;
+}
+.py-foter-menu{
+    padding: 10px 0;
+}
+.about-sec-1{
+	margin-top: 70px
+}
+.wrok-experince-dtalis{
+   margin-bottom:  40px
+}
+.abot-banner-section{
+	padding: 46px 0 42px;
+}
+.about-client-section {
+  padding-top: 50px 
+}
+.py-section-2{
+	padding: 0;
+}
+.about-banner-section{
+	padding: 70px 0
+}
+.right-spacing{
+	padding-left: 15px;
+}
+.right-spacing{
+	padding-top: 40px; 
+	padding-left: 15px;
+}
+.banner-content > h1 > span{
+	display: inline;
+}
+.syas-content{
+	margin-top: 50px
+}
+.conatct-map{
+	height: 280px;
+}
+.comtact-media{
+	margin-top: 40px
+}
+.services-foter-spacing{
+	
+}
+}
